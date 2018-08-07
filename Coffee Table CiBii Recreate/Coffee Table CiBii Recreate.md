@@ -1,0 +1,1 @@
+The downloaded design of AtFAB CiBii was corrupted, so not usable. Instead we made a new design going from the PDF that was included that was readable. In this sense we are re-creating the table. I do not know if this means that the copyright claim and CC license of the original still holds.
